@@ -23,6 +23,16 @@
     background-color: #FF6700;
 }
 /* background color end */
+
+/* font family */
+.font-family-logo{
+    font-family: 'Faster One', cursive;
+}
+.font-family-header-text{
+    font-family: 'Akaya Telivigala', cursive;
+}
+
+/* style */
 .hot{
-    margin-top: -25px;
+    margin-top: -28px;
 }
