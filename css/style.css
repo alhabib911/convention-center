@@ -1,14 +1,28 @@
 /* text color start */
+.harmoni-logo-color{
+    color: #FF6700;
+}
+.harmoni-logo-titel{
+    color: #494949;
+}
 .harmoni-1st{
     color: #F76C0C;
 }
 .harmoni-2nd{
     color: #F85240;
 }
+.p-text{
+    color: #808080;
+}
 /* text color end */
 /* background color start */
 .harmoni-bg-1st{
     background-color: #E5E5E5;
 }
-
+.harmoni-button-bg{
+    background-color: #FF6700;
+}
 /* background color end */
+.hot{
+    margin-top: -25px;
+}
